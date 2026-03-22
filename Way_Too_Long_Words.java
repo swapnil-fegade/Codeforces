@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class abrev {
+public class Way_Too_Long_Words {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
